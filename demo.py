@@ -6,7 +6,7 @@ def subtract(a, b):
     return a - b
 
 def multiply(a, b):
-    return a * b 
+    return a * b  * 6
 
 # Display results
 print("Add: ", add(5, 3))
